@@ -1,10 +1,10 @@
 # Transformer Language Model from Scratch
 
-This project implements a standard Transformer language model entirely from scratch, utilizing only PyTorch's primitive operations. This includes the implementation of all necessary Transformer layers, the optimizer, and the learning rate scheduler. Additionally, a reasonably fast Byte Pair Encoding (BPE) tokenizer has been included for text processing.
+This project implements a standard Transformer language model entirely from scratch, utilizing only PyTorch's primitive operations. This includes the implementation of all necessary Transformer layers, and training components  such the optimizer, learning rate scheduler and gradient clipping. Additionally, a reasonably fast Byte Pair Encoding (BPE) tokenizer has been included for text processing.
 
 ## Implementation Details
 
-The general guidelines for this implementation were followed from [Stanford CS336, assignment 1](https://stanford-cs336.github.io/spring2025/). To ensure the accuracy and correctness of all modules, they were rigorously tested against the test files provided in [Stanford CS336, assignment 1](https://stanford-cs336.github.io/spring2025/).
+The general guidelines for this implementation were followed from [Stanford CS336, assignment 1](https://stanford-cs336.github.io/spring2025/). To ensure the accuracy and correctness of all modules, they were tested against the test files provided in [Stanford CS336, assignment 1](https://stanford-cs336.github.io/spring2025/).
 
 ## Dataset and Training
 
