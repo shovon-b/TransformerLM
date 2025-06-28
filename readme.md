@@ -12,7 +12,7 @@ The model was trained on the "TinyStories" dataset, which comprises children's s
 
 ## Sample Output
 
-Below are sample outputs (generated with termperature scaling) from the trained model:
+Below are sample outputs (generated with temperature scaling) from the trained model:
 
 Prompt: *Once upon a time, in*
 
